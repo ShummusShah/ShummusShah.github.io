@@ -4,52 +4,52 @@
 		"name": "Wealth Manager",
 		"image": "etruckingsoft.png",
 		"url": "https://www.mazars.co.uk/Home/Services/Financial-Planning",
-		"date": "Sept 2019",
-		"tags": ["Employed Role", "Finance"]
+		"date": "Sept 2019-Current",
+		"tags": ["Full-Time", "Finance"]
 	},
 	{
 
-		"name": "Easy Links",
-		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"name": "Payment Operations Analyst",
+		"image": "easy-links.png",
+		"date": "Jan 2019 - Mar 2019",
+		"description": "This is a Global Payments facilitor specialising in subscription payments.",
+		"tags": ["Finance","Full-Time","Operations"]
 
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Trainee Accountant",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"url": "https://www.ajbell.co.uk/",
+		"date": "Jun 2016 - Nov 2016",
+		"tags": ["Finance","Accounting","Full-Time"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "Telephony Mortgage Consultant",
 		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"date": "Jun 2015 - Dec 2015",
+		"url": "https://www.lloydsbankinggroup.com/",
+		"tags": ["Mortgages","Finance","Contracted Role"]
 	},
 	{
 
-		"name": "Street Saver Certification Program",
+		"name": "Volunteer",
 		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"date": "Jan 2011 - Sep 13",
+		"url": "http://www.st-georges-house.org.uk/",
+		"tags": ["Treasury","Charity","Voluntary Role"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
+		"name": "Head Waiter",
 		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"date": "Oct 2009 - Sept 2011",
+		"url": "https://www.wolverhampton-racecourse.co.uk/",
+		"tags": ["Hospitality","Casual Work"]
 	},
 	{
-		"name": "JM Watts Chico",
+		"name": "Betting Operator",
 		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"url": "https://www.ladbrokes.com/",
+		"date": "Jan 2012 - Sept 2013",
+		"tags": ["Gaming","Sports","Part-time"]
 	}
 ]

@@ -18,5 +18,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 ## Resume
 
-
-<embed src="https://drive.google.com/file/d/1-3ZmVsbhv3l6kRfsfskMhfzaFtVmMZ7N/view?usp=sharing" width="100%" height="900">
+https://drive.google.com/file/d/1-3ZmVsbhv3l6kRfsfskMhfzaFtVmMZ7N/view?usp=sharing

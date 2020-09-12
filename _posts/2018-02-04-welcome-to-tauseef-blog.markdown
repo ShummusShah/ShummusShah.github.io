@@ -6,18 +6,17 @@ date:   2018-02-04 21:28:15 +0700
 First of all, Thank you for stopping by.
 
 # Who am I?
-Hi, I am `Shummus Shah`, a *Financial Professional* and a *Technology Enthusiast* originally from Wolverhampton, now living in London. 
+Hi, I am `Shummus Shah`, a *Financial Proffesional* and a *Technology Enthusiast* from Wolverhampton, now living in London.
+ 
+I studied a masters degree in Finance at the [University of Liverpool][csu-chico].
 
-I have previously studied a masters degree in Finance as well as a Bachelors degree in Accounting, both of which were obtained at [The University of Liverpool][csu-chico]. I created this blog to share some finance tips and tricks that you may find of use.
-
+Having extensive knowledge of the financial world, this blog will share my thoughts as well as test my coding ability.
 
 #### I believe in the statement -
-> "Programming is limited to your imagination"
+> "Necessity is the mother of invention"
 
 
 # What is this site about?
-Creating an online presense and to share my learnings was always on my todo list.
-I have also started learning how to code so this is a good test of my skill.
-
+Starting a blog and creating an online presense, to share my learnings was always on my todo list. As i am learning how to code too, I have put the test my HTML and CSS skills when putting this site together using PyCharm.
 
 [csu-chico]:  https://www.liverpool.ac.uk/

@@ -3,7 +3,7 @@ description: Learn more about me!
 author: Shummus Shah
 email: shummus@live.co.uk
 phone: 07563159742
-github: https://github.com/shahs210
+github: https://github.com/shummusshah
 about: I am a Wealth Manager at <a href="https://www.mazars.co.uk/Home/Services/Financial-Planning" target="_blank">Mazars</a>. I am currently learning how to code and have built this as a test of my knowledge.
 disqus_shortname: programming
 #google_analytics: UA-31048387-6
@@ -27,7 +27,7 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/shahs210"
+      link: "https://github.com/shummusshah"
 
 share:
   twitter_username: ShummusS
@@ -43,7 +43,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://shahs210.github.io"
+url: "https://shummusshah.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
